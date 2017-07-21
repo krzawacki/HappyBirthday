@@ -1,0 +1,13 @@
+body {
+    background-color: #d3d3d3;
+    font-family: "Courier New", Courier, monospace;
+	text-align: center;
+}
+
+p {
+	font-size: 12px;
+}
+
+img {
+	border-radius: 140px;
+}
